@@ -1,0 +1,14 @@
+certifi==2021.5.30
+chardet==4.0.0
+face-recognition-models==0.3.0
+facenet-pytorch @ git+https://github.com/timesler/facenet-pytorch@54c869c51e0e3e12f7f92f551cdd2ecd164e2443
+idna==2.10
+importlib-metadata==4.5.0
+numpy==1.20.3
+Pillow==8.2.0
+requests==2.25.1
+torch==1.9.0
+torchvision==0.10.0
+typing-extensions==3.10.0.0
+urllib3==1.26.5
+zipp==3.4.1
